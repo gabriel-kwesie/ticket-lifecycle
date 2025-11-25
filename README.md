@@ -36,7 +36,7 @@ End User
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Using the previously created end-user login information (Karen@gmail.com) (Karen) when creating the ticket
+Use the previously created end-user login information (from the previous tutorial) when creating the ticket
 For the lab, select to report a problem
 For the issue summary, type in the issue 
 example: “entire mobile/online banking system is down”
@@ -48,7 +48,7 @@ Give a summary of the issue
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in as John and observe the ticket
+Log in as your second agent and observe the ticket
 Set Properties for the ticket
 Sev-A (1 hour, 24/7)
 Online Banking Department
