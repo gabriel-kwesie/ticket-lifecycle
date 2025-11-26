@@ -36,10 +36,10 @@ End User
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Use the previously created end-user login information (from the previous tutorial) when creating the ticket
-For the lab, select to report a problem
-For the issue summary, type in the issue 
-example: “entire mobile/online banking system is down”
+Use the previously created end-user login information (from the previous tutorial) when creating the ticket >
+For the lab, select to report a problem >
+For the issue summary, type in the issue >
+The entire mobile/online banking system is down >
 Give a summary of the issue 
 </p>
 <br />
@@ -48,11 +48,11 @@ Give a summary of the issue
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in as your second agent and observe the ticket
-Set Properties for the ticket
-Sev-A (1 hour, 24/7)
-Online Banking Department
-Reassign the help topic to business-critical outage and add any feedback to aid 
+Log in as your second agent and observe the ticket >
+Set Properties for the ticket >
+Sev-A (1 hour, 24/7), 
+Online Banking Department, >
+Reassign the help topic to business-critical outage and add any feedback to aid >
 Assign the ticket to the online banking team 
 </p>
 <br />
@@ -61,10 +61,10 @@ Assign the ticket to the online banking team
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Then work the ticket to completion, logged in as Jane
-Assign the ticket to yourself (Jane)
-Reply giving an update on the ticket
-Give a final reply
+Then work the ticket to completion, logged in as agent one >
+Assign the ticket to yourself >
+Reply giving an update on the ticket >
+Give a final reply >
 Set the status of the ticket to resolved
 </p>
 <br />
@@ -73,9 +73,9 @@ Set the status of the ticket to resolved
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Using the end user login information (Karen@gmail.com) (Karen) when creating a ticket
-Ticket used: accounting department needs an Adobe upgrade, broken 
-General inquiry/ other
+Using the end-user login information when creating a ticket >
+The accounting department needs an Adobe upgrade/broken >
+General inquiry/other >
 Fill in the issue summary and give information on the issue
 </p>
 <br />
@@ -84,10 +84,9 @@ Fill in the issue summary and give information on the issue
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in as John and observe the ticket's properties 
-Set properties to Sev-C and explain the situation
-Support
-Assign to John (yourself) and state the restart fixes issue
+Log in as Agent Two and observe the ticket's properties >
+Set properties to Sev-C and explain the situation >
+Assign to yourself and state the restart fixes issue >
 Set the status of the ticket to Resolved 
 </p>
 <br />
@@ -96,9 +95,9 @@ Set the status of the ticket to Resolved
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As an end user, Karen 
-Help topic Report Problem/ Personal computer issues
-CFO states he's unable to use the laptop
+As the end user, 
+Help topic Report Problem/ Personal computer issues >
+CFO states he's unable to use the laptop >
 Give a summary of the issue (Laptop won't turn on, etc.)
 </p>
 <br />
@@ -107,20 +106,12 @@ Give a summary of the issue (Laptop won't turn on, etc.)
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Login in as john 
-Observe ticket
-Assign Properties to emergency, Sev-B
-May reclassify Sev due to it being the CFO
-Assign to John (Yourself)
-Reply to the ticket with a resolution that the charger was faulty 
+Log in as Agent Two,
+Observe ticket > 
+Assign Properties to emergency, Sev-B >
+May reclassify Sev due to it being the CFO >
+Assign to agent two (Yourself) >
+Reply to the ticket with a resolution that the charger was faulty >
 Close the ticket stating the charger was broken
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
