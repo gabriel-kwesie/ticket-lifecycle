@@ -48,11 +48,10 @@ Give a summary of the issue
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Log in as your second agent and observe the ticket > leave an internal note to set Properties for the ticket >
+Log in as your second agent and observe the ticket > Set Properties for the ticket >
 Sev-A (1 hour, 24/7), 
 Online Banking Department, >
-Reassign the help topic to business-critical outage and add any feedback to aid >
-Assign the ticket to the online banking team 
+Reassign the help topic to business-critical outage and add any feedback to aid > Assign the ticket to the online banking team 
 </p>
 <br />
 
