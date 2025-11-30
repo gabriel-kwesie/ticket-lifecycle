@@ -33,7 +33,7 @@ End User
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/5a974563-7132-462c-b30f-89995c8990e8" />
 </p>
 <p>
 Use the previously created end-user login information (from the previous tutorial) when creating the ticket >
