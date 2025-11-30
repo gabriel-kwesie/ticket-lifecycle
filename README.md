@@ -72,9 +72,7 @@ Set the status of the ticket to resolved
 </p>
 <p>
 Using the end-user login information when creating a ticket >
-The accounting department needs an Adobe upgrade/broken >
-General inquiry/other >
-Fill in the issue summary and give information on the issue
+General inquiry/other > The accounting department needs an Adobe upgrade/broken > Fill in the issue summary and give information on the issue
 </p>
 <br />
 
