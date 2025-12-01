@@ -45,7 +45,7 @@ Give a summary of the issue
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/ab4104e9-0572-40a4-9540-d4310139926d" />
 </p>
 <p>
 Log in as your second agent and observe the ticket > Set Properties for the ticket >
@@ -56,7 +56,7 @@ Reassign the help topic to business-critical outage and add any feedback to aid 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/1b9e7b66-add6-438a-96ac-4e9dbf598e38" />
 </p>
 <p>
 Then work the ticket to completion, logged in as agent one >
@@ -68,7 +68,7 @@ Set the status of the ticket to resolved
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2149564c-9852-4b3e-bbcc-2a970d437af6" />
 </p>
 <p>
 Using the end-user login information when creating a ticket >
@@ -77,18 +77,18 @@ General inquiry/other > The accounting department needs an Adobe upgrade/broken 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/0f183cb5-2d57-448d-9726-e7d62934c0be" />
 </p>
 <p>
 Log in as Agent Two and observe the ticket's properties >
 Set properties to Sev-C and explain the situation >
-Assign to yourself and state the restart fixes issue >
+Assign to yourself and state that a restart fixes the issue >
 Set the status of the ticket to Resolved 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/b94fc277-5823-4341-8eff-a379d15339f0" />
 </p>
 <p>
 As the end user, 
@@ -99,7 +99,7 @@ Give a summary of the issue (Laptop won't turn on, etc.)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/a888529c-613e-4eae-94cc-bc41f73d3577" />
 </p>
 <p>
 Log in as Agent Two,
