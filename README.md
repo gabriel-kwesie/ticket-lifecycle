@@ -22,7 +22,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Links for Admin Login and End user</h2>
+<h2>Links for Admin Login and End user (Within the VM)</h2>
 
 Admin
 - http://localhost/osTicket/scp/login.php
